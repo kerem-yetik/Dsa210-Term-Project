@@ -1,0 +1,5 @@
+Null Hypothesis (H0): There is no statistically significant correlation between the diversity of musical genres consumed within a country and that country's national happiness score. In other words, having a varied or niche musical taste does not predict the subjective well-being of a nation's population.
+Alternative Hypothesis (H1): There is a positive and statistically significant correlation between musical genre diversity and national happiness scores. This suggests that countries with a more diverse and balanced consumption of multiple musical genres (measured via a diversity index like the Shannon Index) tend to report higher levels of national happiness compared to countries with highly concentrated musical preferences.
+Alternative Hypothesis (H2): There is a positive and statistically significant correlation between GDP per capita and the Shannon Diversity Index of musical genres. This suggests that as economic wealth increases, populations tend to explore and consume a more diverse and balanced range of musical genres.
+
+
